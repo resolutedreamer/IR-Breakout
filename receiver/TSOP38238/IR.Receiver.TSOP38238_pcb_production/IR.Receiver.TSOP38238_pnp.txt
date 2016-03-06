@@ -1,0 +1,24 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=IR.Receiver.TSOP38238
+*Date=16:24:04
+*CreatedBy=Fritzing 0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;100µF;100 mil [THT, electrolytic];29.1601;-7.142;180;Bottom;C1
+2;;;16.9926;-7.015;0;Bottom;Copper Fill4
+3;;;10.5664;-3.8146;0;Bottom;Copper Fill3
+4;330;THT;17.7301;-7.142;0;Bottom;R1
+5;;;16.9926;-7.015;0;Bottom;Copper Fill1
+6;;THT;4.21657;-5.62223;0;Bottom;IR2
+7;1k;THT;17.7301;-4.602;0;Bottom;R2
+8;;;43.3727;-6.89903;90;Bottom;PART1
+9;;;19.685;-5.7704;0;Bottom;Copper Fill2
