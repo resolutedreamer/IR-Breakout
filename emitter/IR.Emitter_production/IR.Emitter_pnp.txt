@@ -1,0 +1,20 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=IR.Emitter
+*Date=16:53:56
+*CreatedBy=Fritzing 0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;33;THT;18.6713;-7.23034;0;Bottom;R1
+2;;3 mm [THT];3.43112;-7.92136;180;Bottom;IR_LED
+3;;;17.4752;-7.015;0;Bottom;Copper Fill2
+4;;;17.4752;-7.015;0;Bottom;Copper Fill1
+5;;;44.3138;-6.98736;90;Bottom;GPIO Block
